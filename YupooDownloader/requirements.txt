@@ -1,0 +1,14 @@
+
+requests
+rich
+aiohttp
+aiofiles
+beautifulsoup4
+lxml
+regex
+alive-progress
+piexif
+Pillow
+certifi
+winshell
+pywin32
